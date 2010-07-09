@@ -3,8 +3,8 @@ Contributors: theBlonk
 Donate link: http://www.theBlonk.com/
 Tags: theBlonk, relevant posts, blogosphere, blog promotion, link exchange
 Requires at least: 2.0.2
-Tested up to: 2.1
-Stable tag: 4.3
+Tested up to: 3.0
+Stable tag: 3.0
 
 Install this plugin to add theBlonk sidebar. The theBlonk is a free blog promotion tool between participating blogs. 
 == Description ==
