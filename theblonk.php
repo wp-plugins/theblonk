@@ -4,10 +4,9 @@ Plugin Name: theBlonk
 Plugin URI: http://www.theBlonk.com/
 Description: Use this plugin to put theBlonk widget on your Wordpress Blog.
 Author: theBlonk
-Version: 1.0.0
+Version: 1.0.1
 Author URI: http://blog.theBlonk.com/
 Liscense: All
-
 */
  
  
@@ -47,7 +46,7 @@ var _widgetExtraData = \"&wp=1$extra\";
 function settings_warning() {
 $data = get_option('theBlonk_widget_data');
 if(empty($data['widget_id'])){
-echo "<div id='theBlonk-warning' class='updated fade'><p><strong>".__('theBlonk sidebar is almost ready.')."</strong> ".sprintf(__('You must <a href="%1$s">enter your Widget ID</a> for it to work.'), "widgets.php")."</p></div>";
+echo "<div id='theBlonk-warning' class='updated fade'><p><strong>".__('theBlonk sidebar is almost ready.')."</strong> ".sprintf(__('You must <a href="%1$s">enter your Widget ID</a> for it to work. If you don\'t have a Widget ID, get one for free <a href="http://www.theBlonk.com">here</a>'), "widgets.php")."</p></div>";
 }
 }//end SETTINGS warning
 
