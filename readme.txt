@@ -11,6 +11,7 @@ Install this plugin to add theBlonk sidebar. The theBlonk is a free blog promoti
 
 theBlonk ("the blog link") is a tool that bloggers can use to help promote their blogs across the blogosphere. A blogger places a widget on their site that displays relevant posts from other bloggers, and in return their posts are displayed on other blogger's pages as well.
 
+You can check out http://www.theBlonk.com for more information
 
 == Installation ==
 
@@ -24,7 +25,8 @@ This section describes how to install the plugin and get it working.
 
 == Frequently Asked Questions ==
 
-=How do I get a Widget Id=
+= How do I get a Widget Id? =
+
 Go to http://www.theBlonk.com to get a FREE widget id. A widget ID is required to complete the setup
 
 = Is theBlonk Google-AdSense Safe? =
@@ -41,7 +43,14 @@ Less than 5 minutes! Sign up at theBlonk.com, install the plugin and enter your 
 the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1.png` (or jpg, jpeg, gif)
 2. This is the second screen shot
 
+
 == Changelog ==
+
+= 1.0.3 = 
+* Upgrade Recommended
+* Added ability to create custom header text
+* Widget errors are not so intrusive to reader
+
 
 = 1.0.1 = 
 * Widget Links Updated and Header Error Fixed
@@ -50,6 +59,9 @@ the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1
 * Widget Created.
 
 == Upgrade Notice ==
+
+= 1.0.3 = 
+* Upgrade Recommended - Customization features added
 
 = 1.0.0 = 
 * NON-VITAL update. Link to get widget ID added
